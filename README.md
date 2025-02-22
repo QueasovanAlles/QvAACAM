@@ -38,10 +38,10 @@ Join our exclusive group of tech enthusiasts and developers shaping the future o
 - Enterprise support options
 
 ## Getting Started
-[Join our Google Group](link-to-group) to participate in the closed testing program.
+[Join our Google Group](https://groups.google.com/g/qvaacam) to participate in the closed testing program.
 
 ## Technical Documentation
-[Access the Hub API documentation](link-to-docs)
+[Access the Hub API documentation](https://groups.google.com/g/qvaacam)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
